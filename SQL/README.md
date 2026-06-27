@@ -1,4 +1,5 @@
 # 🗄️ SQL Projects
+<br>
 
 ## Welcome to my SQL Portfolio.
 This section of my Data Journey showcases SQL projects designed to strengthen my skills in querying, transforming, and analysing data using industry-standard database systems.<br>
