@@ -25,6 +25,7 @@ This repository documents my learning journey and hands-on projects completed as
 
 ## 📎 Certifications
 DataCamp: Associate Data Engineer in Snowflake (in progress)
+
 <br>
 
 ## 🚀 Current Status
