@@ -24,15 +24,11 @@ This repository serves as a central hub for my learning and projects across Data
 
 ## 🧩 Projects & Learning Areas
 
-### ❄️ Snowflake Data Engineering
-- Data warehousing concepts (staging, schemas, warehouses) <br>
-- SQL transformations and analytics in Snowflake <br>
-- ELT workflows and data modeling fundamentals <br>
-📁 **Repository:** [Snowflake](https://github.com/kathy-Kat/My-data-Journey/tree/main/SNOWFLAKE)
-<br>
 
-### 📊 Power BI Dashboards
-- Interactive dashboards and data visualizations <br>
-- Data modeling using relationships and DAX measures <br>
-- Sports analytics and performance tracking dashboards <br>
-📁 Folder: /power-bi
+| Learning Area | What You'll Find | Repository |
+| :------------ | :--------------- | :--------- |
+| ❄️ **Snowflake Data Engineering** | Data warehousing, SQL, ELT workflows, hands-on labs, and certification projects completed as part of the Associate Data Engineer in Snowflake track. | **[Open Folder](https://github.com/kathy-Kat/My-data-Journey/tree/main/SNOWFLAKE)** |
+| 🗄️ **SQL Projects** | SQL practice, business case studies, query optimization, and data analysis projects. | *Coming Soon* |
+| 📊 **Power BI Dashboards** | Interactive dashboards, DAX measures, data modeling, and visualization projects. | *Coming Soon* |
+| 🐍 **Python for Data Analysis** | Data cleaning, exploratory data analysis (EDA), automation scripts, and Jupyter notebooks. | *Coming Soon* |
+| ⚙️ **ETL & Data Pipelines** | End-to-end data pipeline projects using modern data engineering practices and tools. | *Coming Soon* |
