@@ -1,8 +1,8 @@
-## ❄️ Snowflake Data Engineering Portfolio
+# ❄️ Snowflake Data Engineering Portfolio
 This repository documents my learning journey and hands-on projects completed as part of the Associate Data Engineer in Snowflake track on DataCamp.
 <br>
 
-**It focuses on building practical skills in:**
+### It focuses on building practical skills in:**
 - Data warehousing using Snowflake <br>
 - SQL for data transformation and analysis <br>
 - ELT pipelines and data modeling <br>
