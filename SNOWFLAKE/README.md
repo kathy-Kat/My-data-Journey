@@ -23,7 +23,10 @@ This repository documents my learning journey and hands-on projects completed as
 - Building structured thinking for data pipelines <br>
 <br>
 
-## 🚀 Current Status
+## 📎 Certifications
+DataCamp: Associate Data Engineer in Snowflake (in progress)
+<br>
 
-📍 Currently completing: Associate Data Engineer in Snowflake Track <br>
+## 🚀 Current Status
 📈 Next step: Building real-world Snowflake + Power BI project portfolio <br>
+
