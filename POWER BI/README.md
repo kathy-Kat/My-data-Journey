@@ -40,3 +40,21 @@ I'm continuously expanding this portfolio with new dashboards covering:
 - 📈 Sales Analytics <br>
 - 💼 HR Analytics <br>
 - 🛒 Retail Analytics <br>
+
+<br>
+
+## 📫 Connect With me
+
+<p align="center">
+  <a href="mailto:crmaponya@gmail.com">
+    <img src="https://img.shields.io/badge/Contact_Me-D14836?style=flat&logo=gmail&logoColor=white" />
+  </a>
+
+  <a href="https://linkedin.com/in/kathy-maps">
+    <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" />
+  </a>
+
+  <a href="https://github.com/kathy-Kat">
+    <img src="https://img.shields.io/badge/View_My_Projects-181717?style=flat&logo=github&logoColor=white" />
+  </a>
+</p>
